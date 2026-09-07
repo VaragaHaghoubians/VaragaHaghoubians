@@ -1,8 +1,8 @@
 # Hi, I'm Varaga
 
-I'm an industrial engineer who moved into data. I have a BSc in Industrial Engineering, and my MSc is in Stochastics and Data Science at the University of Turin (2026). I sit right where operations meets data, and that is the kind of work I'm looking for.
+I'm an industrial engineer who moved into data. I have a BSc in Industrial Engineering, and I'm finishing my MSc in Stochastics and Data Science at the University of Turin, graduating April 2027. I sit right where operations meets data, and that is the kind of work I'm looking for.
 
-I'm looking for an Industrial / Operations Data Analyst role in Turin, Milan, or remote. I have a permesso di soggiorno, so no visa sponsorship is needed.
+I'm looking for an Industrial / Operations Data Analyst role in Turin, Milan, or remote. I'm available full time from April 2027, and open right now to internships, part time and thesis linked work. I have a permesso di soggiorno, so no visa sponsorship is needed.
 
 What I work with: SQL, Python with pandas, Power BI, statistics, forecasting, optimization with PuLP, and predictive maintenance on sensor data.
 
@@ -34,7 +34,7 @@ Took part in the UniTo and SKF Students Indigo Challenge, 2024.
 
 ## Languages
 
-English C1, Italian B2, Armenian native, Persian full professional.
+English C1, Italian B1 and working toward B2, Armenian native, Persian full professional.
 
 ## Get in touch
 

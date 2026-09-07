@@ -22,6 +22,8 @@ At the University of Turin I was also a teaching assistant for MATLAB and numeri
 
 ## Other projects
 
+[hvac-lstm-anomaly-detection](https://github.com/VaragaHaghoubians/hvac-lstm-anomaly-detection), the pipeline from my Eurix internship and my thesis. Cleaning and feature engineering on building sensor data, then an LSTM autoencoder that flags anomalies for maintenance. The real data is confidential, so the repo ships a synthetic data generator and runs out of the box.
+
 [telecom_churn_analysis](https://github.com/VaragaHaghoubians/telecom_churn_analysis), customer segmentation with K-Means, anomaly detection with LOF, and churn prediction with a decision tree.
 
 [facebook_social_network_project](https://github.com/VaragaHaghoubians/facebook_social_network_project), a complex network analysis with networkx, communities, centralities and topology of a real friendship graph.

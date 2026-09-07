@@ -14,15 +14,13 @@ I'm building an industrial analyst portfolio, small operations analytics project
 
 ## Some background
 
-During a 12 month internship at Eurix in Turin I built a predictive maintenance system, anomaly detection on real HVAC and IoT sensor data from a building management system. The facility managers used the results for their maintenance decisions. My thesis grew out of the same work, advanced data analysis for HVAC system characterisation and the evaluation of environmental comfort and energy performance.
+During a 12 month internship at Eurix in Turin I built a predictive maintenance system, anomaly detection on real HVAC and IoT sensor data from a building management system. The facility managers used the results for their maintenance decisions, and my thesis grew out of the same work. The code is here, [hvac-lstm-anomaly-detection](https://github.com/VaragaHaghoubians/hvac-lstm-anomaly-detection). The real data is confidential, so the repo ships a synthetic data generator and runs out of the box.
 
 Before that I did industrial data monitoring in manufacturing, building KPI dashboards for production managers that tracked output, defects, material use and machine uptime.
 
 At the University of Turin I was also a teaching assistant for MATLAB and numerical methods, guiding 15 to 20 students a semester through 13 lab sessions.
 
 ## Other projects
-
-[hvac-lstm-anomaly-detection](https://github.com/VaragaHaghoubians/hvac-lstm-anomaly-detection), the pipeline from my Eurix internship and my thesis. Cleaning and feature engineering on building sensor data, then an LSTM autoencoder that flags anomalies for maintenance. The real data is confidential, so the repo ships a synthetic data generator and runs out of the box.
 
 [telecom_churn_analysis](https://github.com/VaragaHaghoubians/telecom_churn_analysis), customer segmentation with K-Means, anomaly detection with LOF, and churn prediction with a decision tree.
 

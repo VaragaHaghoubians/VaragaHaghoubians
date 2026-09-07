@@ -8,7 +8,7 @@ What I work with: SQL, Python with pandas, Power BI, statistics, forecasting, op
 
 ## What I'm building right now
 
-I'm publishing one small project a week in my industrial analyst portfolio. Each one has its own README with what it does, how to run it, and what I learned.
+I'm building an industrial analyst portfolio, small operations analytics projects that I push here as I finish them. Each one has its own README with what it does, how to run it, and what I learned.
 
 [industrial-analyst-portfolio](https://github.com/VaragaHaghoubians/industrial-analyst-portfolio)
 

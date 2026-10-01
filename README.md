@@ -28,9 +28,9 @@ At the University of Turin, I also served as a teaching assistant for MATLAB and
 
 ## Awards
 
-1st place, Michelin Students Green Challenge, 2024.
+1st place, Michelin Students Green Challenge, 2025.
 
-Winner, UniTo and SKF Students Indigo Challenge, Team Skylab, 2024.
+Winner, UniTo and SKF Students Indigo Challenge, Team Skylab, 2025.
 
 ## Languages
 

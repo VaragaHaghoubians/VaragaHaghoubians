@@ -1,10 +1,16 @@
 # Hi, I'm Varaga
 
-I have a BSc in Industrial Engineering and am completing an MSc in Stochastics and Data Science at the University of Turin, with graduation expected in April 2027.
+I have a background in Industrial Engineering and Engineering Management, and I'm now finishing my MSc in Stochastics and Data Science at the University of Turin (graduation expected April 2027).
 
-My interests are data analysis, industrial operations, and supply chain. My projects include manufacturing KPI analysis with synthetic data and HVAC time-series anomaly detection developed through my thesis collaboration with Eurix.
+I like problems where data meets real operations, like production, maintenance and supply chain. I'm looking for an internship or junior role in operations analytics or data science, where I can learn from a team, collaborate and keep growing.
 
-What I work with: SQL, Python (pandas), Power BI, statistics, forecasting, optimization with PuLP, and predictive maintenance on sensor data.
+My projects include manufacturing KPI analysis with synthetic data and HVAC time-series anomaly detection developed through my thesis collaboration with Eurix.
+
+What I work with: SQL, Python (pandas, scikit-learn, TensorFlow), Power BI, statistics, forecasting, optimization with PuLP, MATLAB, and predictive maintenance on sensor data.
+
+## What I'm learning now
+
+Building Power BI dashboards, working with real public industrial datasets, and connecting forecasting with decisions like inventory and production planning.
 
 ## What I'm building right now
 
@@ -25,6 +31,8 @@ At the University of Turin, I also served as a teaching assistant for MATLAB and
 [telecom_churn_analysis](https://github.com/VaragaHaghoubians/telecom_churn_analysis), customer segmentation with K-Means, anomaly detection with LOF, and churn prediction with a decision tree.
 
 [facebook_social_network_project](https://github.com/VaragaHaghoubians/facebook_social_network_project), a complex network analysis with networkx, communities, centralities and topology of a real friendship graph.
+
+[steel-manufacturing-operations-analytics](https://github.com/VaragaHaghoubians/steel-manufacturing-operations-analytics), production, scrap, downtime and OEE analysis on simulated steel fabrication data.
 
 ## Awards
 
